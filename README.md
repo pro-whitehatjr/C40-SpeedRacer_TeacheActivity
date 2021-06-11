@@ -1,1 +1,1 @@
-# C40-SpeedRacer_TeacheActivity
+# C40-SpeedRacer_TeacherActivity
